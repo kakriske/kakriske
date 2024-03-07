@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Kyle, a full-stack developer. With a curious mind and a background in physics, I love unraveling how things work. Web development caught my attention as a field where logic meets creativity, and I'm on a journey to explore all its facets. 
+
+Languages & Frameworks: JavaScript, React, Node.js, PostgreSQL, CSS, HTML, TypeScript
 
 <!--
 **kakriske/kakriske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
